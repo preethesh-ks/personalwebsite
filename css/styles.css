@@ -1,0 +1,171 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 150px;
+  font-family: 'Sacramento', cursive;
+  color: #110133;
+  /* line-height: 2; */
+}
+p{
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #110133;
+}
+
+.ft {
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #0d627a;
+}
+
+.top {
+  background-color: #9be3de;
+  position: relative;
+  padding: 25px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+ position: absolute;
+ margin-bottom: 600px;
+ right: 300px;
+ }
+.bottom-cloud {
+ position: absolute;
+ left: 300px;
+ top: 350px;
+}
+
+.mountain {
+  right: 10px;
+}
+
+.pic {
+  border-radius: 100%;
+  margin-top: 30px;
+}
+
+.btn {
+  color: #0d627a;
+}
+
+.footer-link {
+  color: #0d627a;
+  line-height: 2;
+  padding: 25px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.chicken-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  font-family:sans-serif;
+}
+
+hr {
+  border-color: #9be3de;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.linespace {
+  line-height: 2;
+}
+
+.btn {
+  box-shadow: 0 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  background-color: #599bb3;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat' ,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #3d768a;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+}
+
+.btn:active {
+  box-shadow: 0 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  background-color: #599bb3;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #3d768a;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.endf {
+  color: #EAF6F6;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.endf:hover{
+  color: black;
+}
